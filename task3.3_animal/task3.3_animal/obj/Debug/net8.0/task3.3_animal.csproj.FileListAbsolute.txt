@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\bin\Debug\net8.0\task3.3_animal.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\bin\Debug\net8.0\task3.3_animal.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\bin\Debug\net8.0\task3.3_animal.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\bin\Debug\net8.0\task3.3_animal.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\bin\Debug\net8.0\task3.3_animal.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\task3.3_animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\task3.3_animal.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\task3.3_animal.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\task3.3_animal.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\task3.3_animal.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\task3.3_animal.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\refint\task3.3_animal.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\task3.3_animal.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\task3.3_animal.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.3_animal\task3.3_animal\obj\Debug\net8.0\ref\task3.3_animal.dll
