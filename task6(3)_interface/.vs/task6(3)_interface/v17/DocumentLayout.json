@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0441\u0442\u0415\u043D\u0430\\Desktop\\oop_2024\\oop3tasks_all\\task6(3)_interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5C47FF-A711-49A0-A782-88743D05F38C}|task6(3)_interface\\task6(3)_interface.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u0435\u043D\u0430\\desktop\\oop_2024\\oop3tasks_all\\task6(3)_interface\\task6(3)_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5C47FF-A711-49A0-A782-88743D05F38C}|task6(3)_interface\\task6(3)_interface.csproj|solutionrelative:task6(3)_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u0415\u043D\u0430\\Desktop\\oop_2024\\oop3tasks_all\\task6(3)_interface\\task6(3)_interface\\Program.cs",
+              "RelativeDocumentMoniker": "task6(3)_interface\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u0415\u043D\u0430\\Desktop\\oop_2024\\oop3tasks_all\\task6(3)_interface\\task6(3)_interface\\Program.cs",
+              "RelativeToolTip": "task6(3)_interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:35:21.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

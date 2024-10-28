@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\bin\Debug\net8.0\task6(3)_interface.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\bin\Debug\net8.0\task6(3)_interface.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\bin\Debug\net8.0\task6(3)_interface.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\bin\Debug\net8.0\task6(3)_interface.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\bin\Debug\net8.0\task6(3)_interface.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\task6(3)_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\task6(3)_interface.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\task6(3)_interface.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\task6(3)_interface.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\task6(3)_interface.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\task6(3)_interface.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\refint\task6(3)_interface.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\task6(3)_interface.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\task6(3)_interface.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(3)_interface\task6(3)_interface\obj\Debug\net8.0\ref\task6(3)_interface.dll
