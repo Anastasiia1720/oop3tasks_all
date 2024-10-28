@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\bin\Debug\net8.0\task7(2)_robotawithcollection.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\bin\Debug\net8.0\task7(2)_robotawithcollection.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\bin\Debug\net8.0\task7(2)_robotawithcollection.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\bin\Debug\net8.0\task7(2)_robotawithcollection.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\bin\Debug\net8.0\task7(2)_robotawithcollection.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\task7(2)_robotawithcollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\task7(2)_robotawithcollection.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\task7(2)_robotawithcollection.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\task7(2)_robotawithcollection.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\task7(2)_robotawithcollection.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\task7(2)_robotawithcollection.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\refint\task7(2)_robotawithcollection.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\task7(2)_robotawithcollection.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\task7(2)_robotawithcollection.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task7(2)_robotawithcollection\task7(2)_robotawithcollection\obj\Debug\net8.0\ref\task7(2)_robotawithcollection.dll
