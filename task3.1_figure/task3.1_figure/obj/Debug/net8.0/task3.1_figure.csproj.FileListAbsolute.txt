@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\bin\Debug\net8.0\task3.1_figure.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\bin\Debug\net8.0\task3.1_figure.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\bin\Debug\net8.0\task3.1_figure.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\bin\Debug\net8.0\task3.1_figure.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\bin\Debug\net8.0\task3.1_figure.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\task3.1_figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\task3.1_figure.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\task3.1_figure.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\task3.1_figure.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\task3.1_figure.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\task3.1_figure.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\refint\task3.1_figure.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\task3.1_figure.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\task3.1_figure.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.1_figure\task3.1_figure\obj\Debug\net8.0\ref\task3.1_figure.dll
