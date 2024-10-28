@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\task3.2_fruit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\task3.2_fruit.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\task3.2_fruit.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\task3.2_fruit.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\task3.2_fruit.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\bin\Debug\net8.0\task3.2_fruit.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\bin\Debug\net8.0\task3.2_fruit.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\bin\Debug\net8.0\task3.2_fruit.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\bin\Debug\net8.0\task3.2_fruit.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\bin\Debug\net8.0\task3.2_fruit.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\task3.2_fruit.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\refint\task3.2_fruit.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\task3.2_fruit.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\task3.2_fruit.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task3.2_fruit\task3.2_fruit\obj\Debug\net8.0\ref\task3.2_fruit.dll
