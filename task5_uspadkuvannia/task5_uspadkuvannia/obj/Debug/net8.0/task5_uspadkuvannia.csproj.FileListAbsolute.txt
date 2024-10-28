@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\bin\Debug\net8.0\task5_uspadkuvannia.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\bin\Debug\net8.0\task5_uspadkuvannia.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\bin\Debug\net8.0\task5_uspadkuvannia.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\bin\Debug\net8.0\task5_uspadkuvannia.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\bin\Debug\net8.0\task5_uspadkuvannia.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\task5_uspadkuvannia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\task5_uspadkuvannia.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\task5_uspadkuvannia.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\task5_uspadkuvannia.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\task5_uspadkuvannia.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\task5_uspadkuvannia.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\refint\task5_uspadkuvannia.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\task5_uspadkuvannia.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\task5_uspadkuvannia.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task5_uspadkuvannia\task5_uspadkuvannia\obj\Debug\net8.0\ref\task5_uspadkuvannia.dll

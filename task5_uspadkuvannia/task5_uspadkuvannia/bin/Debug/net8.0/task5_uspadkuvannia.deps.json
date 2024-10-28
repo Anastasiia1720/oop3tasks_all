@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "task5_uspadkuvannia/1.0.0": {
+        "runtime": {
+          "task5_uspadkuvannia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task5_uspadkuvannia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
