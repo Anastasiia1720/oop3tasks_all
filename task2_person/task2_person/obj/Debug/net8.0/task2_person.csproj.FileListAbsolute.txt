@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\bin\Debug\net8.0\task2_person.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\bin\Debug\net8.0\task2_person.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\bin\Debug\net8.0\task2_person.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\bin\Debug\net8.0\task2_person.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\bin\Debug\net8.0\task2_person.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\task2_person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\task2_person.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\task2_person.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\task2_person.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\task2_person.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\task2_person.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\refint\task2_person.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\task2_person.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\task2_person.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task2_person\task2_person\obj\Debug\net8.0\ref\task2_person.dll

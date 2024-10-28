@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\bin\Debug\net8.0\task1_car.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\bin\Debug\net8.0\task1_car.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\bin\Debug\net8.0\task1_car.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\bin\Debug\net8.0\task1_car.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\bin\Debug\net8.0\task1_car.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\task1_car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\task1_car.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\task1_car.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\task1_car.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\task1_car.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\task1_car.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\refint\task1_car.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\task1_car.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\task1_car.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task1_car\task1_car\obj\Debug\net8.0\ref\task1_car.dll
