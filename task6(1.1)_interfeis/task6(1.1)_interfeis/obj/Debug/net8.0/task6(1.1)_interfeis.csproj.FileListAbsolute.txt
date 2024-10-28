@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\bin\Debug\net8.0\task6(1.1)_interfeis.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\bin\Debug\net8.0\task6(1.1)_interfeis.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\bin\Debug\net8.0\task6(1.1)_interfeis.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\bin\Debug\net8.0\task6(1.1)_interfeis.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\bin\Debug\net8.0\task6(1.1)_interfeis.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\task6(1.1)_interfeis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\task6(1.1)_interfeis.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\task6(1.1)_interfeis.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\task6(1.1)_interfeis.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\task6(1.1)_interfeis.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\task6(1.1)_interfeis.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\refint\task6(1.1)_interfeis.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\task6(1.1)_interfeis.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\task6(1.1)_interfeis.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task6(1.1)_interfeis\task6(1.1)_interfeis\obj\Debug\net8.0\ref\task6(1.1)_interfeis.dll
