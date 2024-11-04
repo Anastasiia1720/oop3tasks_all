@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\bin\Debug\net8.0\task9.1stack.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\bin\Debug\net8.0\task9.1stack.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\bin\Debug\net8.0\task9.1stack.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\bin\Debug\net8.0\task9.1stack.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\bin\Debug\net8.0\task9.1stack.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\task9.1stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\task9.1stack.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\task9.1stack.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\task9.1stack.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\task9.1stack.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\task9.1stack.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\refint\task9.1stack.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\task9.1stack.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\task9.1stack.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.1stack\task9.1stack\obj\Debug\net8.0\ref\task9.1stack.dll
