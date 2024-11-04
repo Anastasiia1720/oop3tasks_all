@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\bin\Debug\net8.0\task8.1complexclass.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\bin\Debug\net8.0\task8.1complexclass.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\bin\Debug\net8.0\task8.1complexclass.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\bin\Debug\net8.0\task8.1complexclass.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\bin\Debug\net8.0\task8.1complexclass.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\task8.1complexclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\task8.1complexclass.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\task8.1complexclass.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\task8.1complexclass.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\task8.1complexclass.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\task8.1complexclass.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\refint\task8.1complexclass.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\task8.1complexclass.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\task8.1complexclass.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task8.1complexclass\task8.1complexclass\obj\Debug\net8.0\ref\task8.1complexclass.dll
