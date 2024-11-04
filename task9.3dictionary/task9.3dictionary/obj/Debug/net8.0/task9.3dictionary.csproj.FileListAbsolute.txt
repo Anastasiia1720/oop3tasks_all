@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\bin\Debug\net8.0\task9.3dictionary.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\bin\Debug\net8.0\task9.3dictionary.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\bin\Debug\net8.0\task9.3dictionary.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\bin\Debug\net8.0\task9.3dictionary.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\bin\Debug\net8.0\task9.3dictionary.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\task9.3dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\task9.3dictionary.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\task9.3dictionary.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\task9.3dictionary.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\task9.3dictionary.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\task9.3dictionary.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\refint\task9.3dictionary.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\task9.3dictionary.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\task9.3dictionary.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.3dictionary\task9.3dictionary\obj\Debug\net8.0\ref\task9.3dictionary.dll
