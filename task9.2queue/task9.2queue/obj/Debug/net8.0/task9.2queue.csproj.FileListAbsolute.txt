@@ -1,0 +1,15 @@
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\bin\Debug\net8.0\task9.2queue.exe
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\bin\Debug\net8.0\task9.2queue.deps.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\bin\Debug\net8.0\task9.2queue.runtimeconfig.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\bin\Debug\net8.0\task9.2queue.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\bin\Debug\net8.0\task9.2queue.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\task9.2queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\task9.2queue.AssemblyInfoInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\task9.2queue.AssemblyInfo.cs
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\task9.2queue.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\task9.2queue.sourcelink.json
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\task9.2queue.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\refint\task9.2queue.dll
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\task9.2queue.pdb
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\task9.2queue.genruntimeconfig.cache
+C:\Users\НастЕна\Desktop\oop_2024\oop3tasks_all\task9.2queue\task9.2queue\obj\Debug\net8.0\ref\task9.2queue.dll
